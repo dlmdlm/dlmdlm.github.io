@@ -1,0 +1,27 @@
+permalink: /:title/
+url: dlmdlm.github.io
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 20 # 每页显示篇数
+paginate_path: "page:num"
+name: 踏雪寻梅
+description: 踏雪寻梅 | Stop talking, start doing.
+author: DLM
+email: 1131909224m@gmail.com
+duoshuo: dlmdlm # 多说评论功能
+weibo: 3720825601 # 微博用户主页显示的
+hub: dlmdlm # github名字
+safe: false
+about: "弱菜一枚"
+
+# makrdown
+# 1
+#markdown: redcarpet
+#pygments: true
+
+# 2
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    syntax_highlighter: rouge
+    extensions: ["fenced_code_blocks", "autolink", "tables", "smart"]
