@@ -4,8 +4,8 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20 # 每页显示篇数
 paginate_path: "page:num"
-name: 踏雪寻梅
-description: 踏雪寻梅 | Stop talking, start doing.
+name: 小黑
+description: 小黑 | Stop talking, start doing.
 author: DLM
 email: 1131909224m@gmail.com
 duoshuo: dlmdlm # 多说评论功能
